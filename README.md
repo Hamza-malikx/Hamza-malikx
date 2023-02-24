@@ -68,11 +68,11 @@
     <tr>
         <td align="center"><a href="https://github.com/Hamza-malikx#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-malikx&theme=default"/></a><a href="https://github.com/Hamza-malikx#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-malikx&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/Hamza-malikx#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Hamza-malikx#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/Hamza-malikx/Hamza-malikx/blob/output/github-contribution-grid-snake.gif" alt=""/>
+    </td>
+  </tr>
 </table>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamza-malikx&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
-<br/>
-<br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-malikx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![snake gif](https://github.com/Hamza-malikx/Hamza-malikx/blob/output/github-contribution-grid-snake.gif)
