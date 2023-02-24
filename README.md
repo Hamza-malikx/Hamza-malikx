@@ -8,7 +8,8 @@
       <img src="https://img.shields.io/badge/Portfolio-673AB7?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a hred="">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<!--       <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+      <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt ="Facebook Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hamza-malikx&style=flat-square&color=blue" alt=""/>
