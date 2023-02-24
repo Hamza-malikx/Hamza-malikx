@@ -60,33 +60,19 @@
 ---
 
 ### :fire: My Stats :
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamza-malikx&border_radius=4.6)](https://git.io/streak-stats) -->
-<!-- GitHub Streak -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Hamza-malikx&theme=dark&border_radius=4.6&fire=DD2727"/>
-  </a>
-</p>
-
-<!-- Dark Mode Detection -->
-<script>
-  const toggleTheme = (theme) => {
-    if (theme === "dark") {
-      document.body.classList.add("dark-mode");
-    } else {
-      document.body.classList.remove("dark-mode");
-    }
-  };
-  
-  const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
-  toggleTheme(mediaQuery.matches ? "dark" : "light");
-  mediaQuery.addListener((e) => toggleTheme(e.matches ? "dark" : "light"));
-</script>
-
-<style>
-  /* Dark Mode Styles */
-  body.dark-mode {
-    background-color: #1a1a1a;
-    color: #f2f2f2;
-  }
-</style>
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/Hamza-malikx#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Hamza-malikx&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Hamza-malikx#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Hamza-malikx&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Hamza-malikx#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-malikx&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Hamza-malikx#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-malikx&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Hamza-malikx#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-malikx&theme=default"/></a><a href="https://github.com/Hamza-malikx#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-malikx&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/Hamza-malikx#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Hamza-malikx/Hamza-malikx/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Hamza-malikx#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Hamza-malikx/Hamza-malikx/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamza-malikx&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+<br/>
+<br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-malikx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
