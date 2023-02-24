@@ -7,7 +7,7 @@
     <a href="">
       <img src="https://img.shields.io/badge/Portfolio-673AB7?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a hred="https://www.facebook.com/profile.php?id=100009035233627">
+    <a href="https://www.facebook.com/profile.php?id=100009035233627">
       <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt ="Facebook Badge"/>
     </a>
   </div>
