@@ -70,9 +70,9 @@
     </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/Hamza-malikx/Hamza-malikx/blob/output/github-contribution-grid-snake.gif" alt=""/>
+      <img src="https://github.com/Hamza-malikx/Hamza-malikx/blob/output/github-contribution-grid-snake.svg" alt=""/>
     </td>
   </tr>
 </table>
 
-![snake gif](https://github.com/Hamza-malikx/Hamza-malikx/blob/output/github-contribution-grid-snake.gif)
+
