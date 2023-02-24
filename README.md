@@ -7,8 +7,7 @@
     <a href="">
       <img src="https://img.shields.io/badge/Portfolio-673AB7?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a hred="">
-<!--       <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+    <a hred="https://www.facebook.com/profile.php?id=100009035233627">
       <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt ="Facebook Badge"/>
     </a>
   </div>
@@ -31,7 +30,7 @@
 
   - :seedling: Exploring Technical Content Writing.
 
-  - :zap: - I’m currently learning everything about Django and BlockChain 👨‍💻
+  - :zap: I’m currently learning everything about Django and BlockChain 👨‍💻
 
   - 🚀 My Goal for 2023: To design and develop scalable applications for both web and mobile platforms and to be a top rated seller on fiver.
 
