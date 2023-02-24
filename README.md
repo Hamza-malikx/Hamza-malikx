@@ -14,7 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hamza-malikx&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hi there, I'm Hamza
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -31,7 +31,7 @@
 
   - :seedling: Exploring Technical Content Writing.
 
-  - :zap: - I’m currently learning everything about Django and BlockChain technology 👨‍💻
+  - :zap: - I’m currently learning everything about Django and BlockChain 👨‍💻
 
   - 🚀 My Goal for 2023: To design and develop scalable applications for both web and mobile platforms and to be a top rated seller on fiver.
 
@@ -55,7 +55,38 @@
   <img src="https://img.icons8.com/color/30/000000/adobe-xd.png" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" title="Ant Design" alt="Ant Design" width="40" height="40"/>&nbsp;
   <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" title="SCSS" alt="SCSS" width="40" height="40"/>
-
-
-
 </div>
+
+---
+
+### :fire: My Stats :
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamza-malikx&border_radius=4.6)](https://git.io/streak-stats) -->
+<!-- GitHub Streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Hamza-malikx&theme=dark&border_radius=4.6&fire=DD2727"/>
+  </a>
+</p>
+
+<!-- Dark Mode Detection -->
+<script>
+  const toggleTheme = (theme) => {
+    if (theme === "dark") {
+      document.body.classList.add("dark-mode");
+    } else {
+      document.body.classList.remove("dark-mode");
+    }
+  };
+  
+  const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  toggleTheme(mediaQuery.matches ? "dark" : "light");
+  mediaQuery.addListener((e) => toggleTheme(e.matches ? "dark" : "light"));
+</script>
+
+<style>
+  /* Dark Mode Styles */
+  body.dark-mode {
+    background-color: #1a1a1a;
+    color: #f2f2f2;
+  }
+</style>
