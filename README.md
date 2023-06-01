@@ -32,7 +32,7 @@
 
   - :zap: I’m currently learning everything about Django and BlockChain 👨‍💻
 
-  - 🚀 My Goal for 2023: To design and develop scalable applications for both web and mobile platforms and to be a top rated seller on fiver.
+  - 🚀 My Goal for 2023: To design and develop scalable applications for both web and mobile platforms.
 
   - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayanshyk@gmail.com)
 
