@@ -30,7 +30,7 @@
 
   - :seedling: Exploring Technical Content Writing.
 
-  - :zap: I’m currently learning everything about Solidity and BlockChain 👨‍💻
+  - :zap: I’m currently learning everything about Data Science and AI 👨‍💻
 
   - 🚀 My Goal for 2024: To design and develop scalable applications for both web and mobile platforms.
 
