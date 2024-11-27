@@ -23,18 +23,17 @@
 </div>
 
 ---
-  
-  ### :man_technologist: About Me : 
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-  - :seedling: Exploring Technical Content Writing.
+### 👨‍💻 About Me  
 
-  - :zap: I’m currently learning everything about Data Science and AI 👨‍💻
+Hi! I'm a **Full Stack Developer** and the **[Founder of Vistabyte](https://www.vistabyte.co/)**. With expertise in **React**, **Django**, and **AI**, I am passionate about creating innovative solutions and scalable applications for web and mobile platforms.  
 
-  - 🚀 My Goal for 2024: To design and develop scalable applications for both web and mobile platforms.
-
-  - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayanshyk@gmail.com)
+- 🔭 **What I Do:** I work as a Software Engineer, contributing to both **frontend** and **backend** development to build dynamic, user-centric web applications. At **Vistabyte**, we focus on crafting cutting-edge, user-focused digital solutions for businesses of all sizes.  
+- 🌱 **Currently Learning:** Exploring **Data Science** and **AI** to push the boundaries of what’s possible in technology.  
+- ✍️ **Exploring:** Technical content writing to share knowledge and inspire the developer community.  
+- 🚀 **About Vistabyte:** At **Vistabyte**, our mission is to deliver innovative and efficient software solutions. We specialize in developing custom applications, leveraging the latest in web technologies and AI to help businesses succeed in the digital age.  
+- 🎯 **2024 Goal:** To design and develop highly **scalable applications** that make a difference for individuals and organizations.  
+- 📬 **Reach Me At:** [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayanshyk@gmail.com)
 
 ---
 
