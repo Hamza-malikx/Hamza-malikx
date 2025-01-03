@@ -1,4 +1,4 @@
-<div id="header" align="center">
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/hamza-asif-ba84831bb/">
@@ -32,7 +32,7 @@ Hi! I'm a **Full Stack Developer** and the **[Founder of Vistabyte](https://www.
 - 🌱 **Currently Learning:** Exploring **Data Science** and **AI** to push the boundaries of what’s possible in technology.  
 - ✍️ **Exploring:** Technical content writing to share knowledge and inspire the developer community.  
 - 🚀 **About Vistabyte:** At **Vistabyte**, our mission is to deliver innovative and efficient software solutions. We specialize in developing custom applications, leveraging the latest in web technologies and AI to help businesses succeed in the digital age.  
-- 🎯 **2024 Goal:** To design and develop highly **scalable applications** that make a difference for individuals and organizations.  
+- 🎯 **2025 Goal:** To design and develop highly **Scalable AI Applications** that make a difference for individuals and organizations.  
 - 📬 **Reach Me At:** [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hayanshyk@gmail.com)
 
 ---
