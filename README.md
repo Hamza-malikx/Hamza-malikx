@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me  
 
-Hi! I'm a **Full Stack Developer** and the **[Founder of Vistabyte](https://www.vistabyte.co/)**. With expertise in **React**, **Django**, and **AI**, I am passionate about creating innovative solutions and scalable applications for web and mobile platforms.  
+Hi! I'm a **Full Stack Developer** and the **[Co-Founder of Vistabyte](https://www.vistabyte.co/)**. With expertise in **React**, **Django**, and **AI**, I am passionate about creating innovative solutions and scalable applications for web and mobile platforms.  
 
 - 🔭 **What I Do:** I work as a Software Engineer, contributing to both **frontend** and **backend** development to build dynamic, user-centric web applications. At **Vistabyte**, we focus on crafting cutting-edge, user-focused digital solutions for businesses of all sizes.  
 - 🌱 **Currently Learning:** Exploring **Data Science** and **AI** to push the boundaries of what’s possible in technology.  
