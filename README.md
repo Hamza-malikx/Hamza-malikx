@@ -54,7 +54,7 @@ const hamza = {
 
 💼 **Professional Journey**: From Islamabad to London, evolved from Full Stack Development to AI Systems Architecture
 
-🎯 **2025 Goal**: Design and deploy highly scalable AI applications that make a real-world impact
+🎯 **2026 Goal**: Design and deploy highly scalable AI applications that make a real-world impact
 
 📬 **Let's Connect**: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamzamalikx404@gmail.com)
 
