@@ -131,23 +131,6 @@ const hamza = {
 
 ---
 
-## 💼 Professional Experience
-
-```mermaid
-timeline
-    title Career Journey
-    Jan 2023 - Present : Co-Founder & Technical Lead @ VistaByte
-                       : Client Relations • System Architecture • Business Strategy
-    Apr 2023 - Oct 2023 : Lead Software Engineer @ SuccessFundTrader
-                        : Led Team of 5 • Real-time Trading Dashboard
-    Aug 2022 - Feb 2025 : Software Engineer @ Code N Creative
-                        : Google Cloud • Django • Full Stack • DevOps
-    Aug 2021 - Present : Freelance Full Stack Developer @ Fiverr
-                       : 150+ Projects • Global Clients • 5-Star Rating
-```
-
----
-
 ## 🎓 Education & Certifications
 
 **🎓 Master of Science - Applied AI**  
