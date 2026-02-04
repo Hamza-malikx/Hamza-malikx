@@ -81,7 +81,6 @@ const hamza = {
 | **[Gulf Teachers](https://www.gulfteachers.com/)** | Professional teacher portal and management system | React, Dashboard, Admin Panel |
 | **[BazaarArt](https://bazaarart.net/)** | Art marketplace and gallery platform | Next.js, E-commerce |
 | **[Dietry](https://dietry.vercel.app/)** | Nutrition and diet tracking application | React, Health Analytics |
-| **[Scottish Properties](https://scottish.vercel.app/)** | Real estate listing and property management platform | React, Real Estate |
 
 ### 🏢 Enterprise Projects
 
