@@ -86,7 +86,7 @@ const hamza = {
 
 **SFT (SuccessFundTrader)** - Led team of 5 developers building trading platform with personalized dashboards, real-time leaderboards, 24/7 support, and achievement certificates
 
-**Code N Creative** - Enterprise cloud systems on Google Cloud Platform with scalable Django backend and DevOps infrastructure
+**Code N Creative** - Build enterprise cloud systems on Google Cloud Platform with scalable Django backend and DevOps infrastructure
 
 ---
 
