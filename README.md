@@ -69,7 +69,6 @@ const hamza = {
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | **[FlashWash.pro](https://flashwash.pro)** | Solana volume booster trading bot platform with multi-tier plans, JITO compatibility, and MEV protection | Next.js, Solana, Web3 |
-| **[CityAgent](https://city-agent-frontend.vercel.app/)** | Real estate marketplace connecting verified agents with clients, featuring ID verification, reviews, and crypto payments | React, Next.js, PostgreSQL |
 | **[TheMovia](https://www.themovia.com/)** | Full-featured movie booking platform with cinema management, showtime scheduling, and location-based filtering | Django, Next.js, PostgreSQL |
 | **[Thoth](https://thoth-wheat.vercel.app/)** | AI-powered crypto trading insights platform aggregating 100+ sources with real-time signals | React, AI Integration, Trading APIs |
 | **[Axvene](https://axvene.com)** | Premium luxury e-commerce for watches, jewelry, and fragrances with seamless checkout experience | Next.js, Stripe, E-commerce |
